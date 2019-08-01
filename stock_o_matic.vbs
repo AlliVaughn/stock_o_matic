@@ -1,5 +1,5 @@
 'Final HW 
-Sub stock_counter_looper()
+Sub stock_o_matic()
 
 
     'Easy option:
